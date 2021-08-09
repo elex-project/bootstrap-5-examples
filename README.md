@@ -1,11 +1,11 @@
-# 🚀 Welcome to your new awesome project!
+# Bootstrap 5 Examples
 
 ```bash
 yarn init
 yarn add webpack-cli --dev
 yarn webpack-cli init
 yarn add bootstrap @popperjs/core
-yarn add css-loader --dev
+yarn add css-loader ... --dev
 ```
 
 ---
